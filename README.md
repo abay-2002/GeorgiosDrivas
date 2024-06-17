@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **an employee evaluation app**
  
- 🌱 I’m currently learning **Cypress, Spring Boot, MongoDB**
+ 🌱 I’m currently learning **Cypress, Spring Boot, MySQL**
 
  </div>
  
@@ -32,7 +32,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,cypress" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mySQL,java" /><br>
 </div>
 
 <br/>
