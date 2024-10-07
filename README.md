@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a code-snippet saving web app**
+ 🔭 I’m currently working on **a note-keeping web app for books**
  
  🌱 I’m currently learning **Angular, Spring Boot, PostgreSQL**
 
