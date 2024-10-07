@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a code-snippet saving web app**
  
- 🌱 I’m currently learning **Angular, Spring Boot, Jest**
+ 🌱 I’m currently learning **Angular, Spring Boot, PostgreSQL**
 
  </div>
  
